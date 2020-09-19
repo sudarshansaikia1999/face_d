@@ -6,7 +6,7 @@ Werkzeug==0.15.5
 numpy==1.16.0
 scipy==1.4.1
 matplotlib>=1.4.3
-tensorflow-gpu
+tensorflow-gpu==2.0.0
 opencv-python
 path.py
 
