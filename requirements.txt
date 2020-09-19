@@ -5,8 +5,7 @@ Jinja2==2.10.1
 Werkzeug==0.15.5
 numpy==1.16.0
 scipy==1.4.1
-matplotlib>=1.4.3
-tensorflow-gpu==2.0.0
+tensorflow-gpu
 opencv-python
 path.py
 
